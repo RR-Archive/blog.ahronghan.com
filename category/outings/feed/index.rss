@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>저녁은 생선구이 &#187; outings</title>
+	<atom:link href="http://blog.ahronghan.com/category/outings/feed/" rel="self" type="application/rss+xml" />
+	<link>http://blog.ahronghan.com</link>
+	<description>Broiled Fish for Dinner</description>
+	<lastBuildDate>Fri, 31 Oct 2014 00:26:56 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=3.8.36</generator>
+	<item>
+		<title>봄 + 서울</title>
+		<link>http://blog.ahronghan.com/outings/%eb%b4%84-%ec%84%9c%ec%9a%b8/</link>
+		<comments>http://blog.ahronghan.com/outings/%eb%b4%84-%ec%84%9c%ec%9a%b8/#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 21:28:50 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[nature]]></category>
+		<category><![CDATA[outings]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=3705</guid>
+		<description><![CDATA[ ]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/outings/%eb%b4%84-%ec%84%9c%ec%9a%b8/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>snow, winter and the cat</title>
+		<link>http://blog.ahronghan.com/cat/snow-winter-and-a-cat/</link>
+		<comments>http://blog.ahronghan.com/cat/snow-winter-and-a-cat/#comments</comments>
+		<pubDate>Sat, 19 Apr 2014 09:39:57 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[breakfast]]></category>
+		<category><![CDATA[cat]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[nature]]></category>
+		<category><![CDATA[NYClife]]></category>
+		<category><![CDATA[outings]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=3663</guid>
+		<description><![CDATA[Some photos are taken by Taeyoon Choi]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/cat/snow-winter-and-a-cat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Insta-rong</title>
+		<link>http://blog.ahronghan.com/food/insta-rong/</link>
+		<comments>http://blog.ahronghan.com/food/insta-rong/#comments</comments>
+		<pubDate>Thu, 02 May 2013 08:13:54 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[cat]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[friends]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[NYClife]]></category>
+		<category><![CDATA[outings]]></category>
+		<category><![CDATA[studio]]></category>
+		<category><![CDATA[work]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=3378</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/food/insta-rong/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Some of my favorite Instagram photos</title>
+		<link>http://blog.ahronghan.com/food/some-of-my-favorite-instagram-photos/</link>
+		<comments>http://blog.ahronghan.com/food/some-of-my-favorite-instagram-photos/#comments</comments>
+		<pubDate>Sat, 17 Nov 2012 05:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[cat]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[friends]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[NYClife]]></category>
+		<category><![CDATA[outings]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=3106</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/food/some-of-my-favorite-instagram-photos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title></title>
+		<link>http://blog.ahronghan.com/notes/1877/</link>
+		<comments>http://blog.ahronghan.com/notes/1877/#comments</comments>
+		<pubDate>Sun, 12 Feb 2012 20:42:06 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[cat]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[outings]]></category>
+		<category><![CDATA[weekend]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=1877</guid>
+		<description><![CDATA[바쁜 일이 다 끝났다! 했더니 새해는 시작되었고 방학은 끝이 나고 봄 학기 시작. 지난해 마지막 날은, 구실만 있으면 모여서 시끄럽게 파티하고 노는 위층의 정신 나간 이십 대 이웃 여자애들의 비명에 가까운 환호와 함께 조용히(?) 집에서 보냈다. 이번 겨울은 길기도 참 길다. 요사이 맛 들린 &#8216;만두 빚기&#8217;에 계속 몰두하며 봄이 오길 [...]]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/notes/1877/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sundays are mine</title>
+		<link>http://blog.ahronghan.com/weekend/sundays-are-mine/</link>
+		<comments>http://blog.ahronghan.com/weekend/sundays-are-mine/#comments</comments>
+		<pubDate>Mon, 21 Nov 2011 19:57:36 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[home]]></category>
+		<category><![CDATA[outings]]></category>
+		<category><![CDATA[weekend]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=1830</guid>
+		<description><![CDATA[Is it just me, or are the weeks getting shorter? This year has been a confusing one, also seems like passing by ever more quickly. I&#8217;ve been trying to leave Sundays for myself, but sometimes it&#8217;s not that simple. I blame some of that on a recent stressful work at School. Here&#8217;s a [...]]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/weekend/sundays-are-mine/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>가지딤섬과 허리케인</title>
+		<link>http://blog.ahronghan.com/food/488/</link>
+		<comments>http://blog.ahronghan.com/food/488/#comments</comments>
+		<pubDate>Sat, 27 Aug 2011 21:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[food]]></category>
+		<category><![CDATA[NYClife]]></category>
+		<category><![CDATA[outings]]></category>
+		<category><![CDATA[weekend]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=488</guid>
+		<description><![CDATA[지난 주말에 브런치로 먹기로 했다가 먹지 못한 딤섬을 허리케인 오기 전날 아침에 먹으러 다녀왔다. Flushing에 있는 이 딤섬집은 내일 오는 허리케인은 상관도 없다는 듯 밤 11시까지 문을 연다고 했다. 차를 쌩쌩 몰고 달려서 저번주의 한을 풀기라도 할듯 우리쪽으로 오는 카트 다 잡아놓고 여섯 종류를 한번에 시켰다. 너무 매운 고추 딤섬만 빼면 모두 [...]]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/food/488/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Evening sailing</title>
+		<link>http://blog.ahronghan.com/nyclife/evening-sailing/</link>
+		<comments>http://blog.ahronghan.com/nyclife/evening-sailing/#comments</comments>
+		<pubDate>Fri, 29 Jul 2011 22:35:17 +0000</pubDate>
+		<dc:creator><![CDATA[Ahrong]]></dc:creator>
+				<category><![CDATA[NYClife]]></category>
+		<category><![CDATA[outings]]></category>
+
+		<guid isPermaLink="false">http://blog.ahronghan.com/?p=1541</guid>
+		<description><![CDATA[]]></description>
+		<wfw:commentRss>http://blog.ahronghan.com/nyclife/evening-sailing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Dynamic page generated in 0.340 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2021-09-14 16:29:01 -->
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: blog.ahronghan.com @ 2021-09-14 16:29:01 -->
